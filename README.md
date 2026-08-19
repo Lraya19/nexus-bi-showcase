@@ -1,10 +1,10 @@
-# 📊 Nexus BI
+# Nexus BI
 
 Institutional hospitality business intelligence — a sprawling "Financial Analyzer" Excel workbook reverse-engineered into a **multi-tenant SaaS platform**. Power-BI-class dashboards, an upload-anything ingestion pipeline with AI-assisted document extraction, built for hotel owners, management companies, and asset managers.
 
 > Next.js 15 · React 19 · TypeScript · Supabase (Postgres + RLS) · Drizzle ORM. A unit-tested KPI engine ported straight from the source workbook's formula chains.
 
-## ✨ Technologies
+## Technologies
 
 - `Next.js 15` (App Router)
 - `React 19` + `TypeScript`
